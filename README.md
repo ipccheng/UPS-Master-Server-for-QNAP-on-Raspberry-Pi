@@ -69,7 +69,7 @@ The last line of the output should be showing that
 
 >Communications with UPS qnapups@localhost established
 
-**6. Connect the USB cable of the UPS to Raspberry Pi, and plug Raspberry Pi and QNAP NAS to the UPS for power**
+**6. Connect the USB cable of the UPS to Raspberry Pi, and plug 1) Raspberry Pi, 2) QNAP NAS and 3) the network switch connecting them to the UPS for power**
 
 **7. Add the UPS Master to QNAP**
 
